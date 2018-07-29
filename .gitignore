@@ -1,0 +1,5 @@
+imdbdata/
+rawdata/
+weatherdata/
+#modelTrain/
+model_log_dir/
